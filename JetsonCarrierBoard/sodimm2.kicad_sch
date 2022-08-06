@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid b07a201e-8237-4939-ade0-9da6c193ba47)
+  (uuid bd5235c9-6709-4860-a82f-3badf666fcf5)
 
   (paper "A4")
 
@@ -1090,6 +1090,13 @@
     )
   )
 
+
+  (no_connect (at 116.84 99.06) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
+  (no_connect (at 116.84 101.6) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
+  (no_connect (at 116.84 104.14) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
+  (no_connect (at 116.84 106.68) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
+  (no_connect (at 116.84 109.22) (uuid e3432f1e-3f87-4b79-9707-cdad47c4d02e))
+  (no_connect (at 116.84 111.76) (uuid e3432f1e-3f87-4b79-9707-cdad47c4d02e))
 
   (symbol (lib_id "SODIMM_Connector:CON_SODIMM260_JETSON_NANO") (at 143.51 95.25 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)

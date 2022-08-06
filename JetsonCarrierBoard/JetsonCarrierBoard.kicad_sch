@@ -195,6 +195,15 @@
   )
 
   (symbol_instances
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/1386d9a4-71f7-41cd-a560-524abed48850"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/8df64949-362d-445e-8f97-b3b7707c7563"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/e5de71d9-72a9-41fb-9f4f-7473d1b1a8dc"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/609e6fea-e559-49cb-854a-8278ff6c3cdf"
       (reference "J?") (unit 1) (value "CON_SODIMM260_JETSON_NANO") (footprint "")
     )
