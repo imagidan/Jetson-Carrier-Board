@@ -1092,11 +1092,11 @@
 
 
   (no_connect (at 116.84 99.06) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
-  (no_connect (at 116.84 101.6) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
-  (no_connect (at 116.84 104.14) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
-  (no_connect (at 116.84 106.68) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affc))
+  (no_connect (at 116.84 101.6) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affd))
+  (no_connect (at 116.84 104.14) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77affe))
+  (no_connect (at 116.84 106.68) (uuid bd9bad43-8e7a-413c-b8ef-77c29a77afff))
   (no_connect (at 116.84 109.22) (uuid e3432f1e-3f87-4b79-9707-cdad47c4d02e))
-  (no_connect (at 116.84 111.76) (uuid e3432f1e-3f87-4b79-9707-cdad47c4d02e))
+  (no_connect (at 116.84 111.76) (uuid e3432f1e-3f87-4b79-9707-cdad47c4d02f))
 
   (symbol (lib_id "SODIMM_Connector:CON_SODIMM260_JETSON_NANO") (at 143.51 95.25 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
@@ -1110,7 +1110,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7dcddb82-88d8-4900-8b72-6240b4004045))
-    (pin "101" (uuid adb9eeb2-2149-48a5-b299-1e6f0fc0e4b5))
+    (pin "101" (uuid aaeeb09a-1268-4a43-b7f3-808971914f9d))
     (pin "101" (uuid aaeeb09a-1268-4a43-b7f3-808971914f9d))
     (pin "102" (uuid 9cea4a3c-35b7-4614-bd29-b96b25ca5d28))
     (pin "107" (uuid 6542a023-9181-40d5-86d1-ac03b0d65923))
@@ -1211,7 +1211,7 @@
     (pin "80" (uuid 196f517a-3391-4b0c-86ef-246a72eb3d37))
     (pin "85" (uuid f7b61c62-312d-4ea6-ae0c-29b30025d5fa))
     (pin "86" (uuid c6d71386-ca67-41a0-87c6-5b2afac9cdc3))
-    (pin "99" (uuid 44276b18-3388-47ee-b0bc-b086a69e28b7))
+    (pin "99" (uuid 9e95c6e1-6a5b-4f28-822e-4b2f1997526a))
     (pin "99" (uuid 9e95c6e1-6a5b-4f28-822e-4b2f1997526a))
     (pin "10" (uuid 01652a97-01d5-4cb4-b0d5-afcb7f483d73))
     (pin "104" (uuid df5414df-d517-439d-855b-5c93a0b08acb))
