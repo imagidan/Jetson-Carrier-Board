@@ -790,7 +790,7 @@
     (property "Footprint" "" (id 2) (at 151.13 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 151.13 80.01 0)
+    (property "Datasheet" "https://www.vishay.com/docs/75921/sic437.pdf" (id 3) (at 151.13 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3ab0c76e-8846-4ca6-9a09-3c004b2ad82d))
