@@ -222,6 +222,12 @@
     (path "/fd522664-18f7-41a9-83db-3444870594c0/3e9b3c05-1c43-41f4-bd27-e444b9e69043"
       (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
     )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/3ed77f30-23d4-4d43-9d3b-71ddd11ac666"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/4ea82c58-92be-48b3-83ef-3ed534a6852d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7661caa5-a831-4a38-b30b-4546d9bcecdf/57c9b9ec-4e90-41ec-acdd-34663c499852"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -236,6 +242,9 @@
     )
     (path "/a2d05d86-0e9b-47b0-b97a-14889aed3931/83c241e1-c48e-4369-8b59-f8e7a8b68d85"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/87c95f9c-a792-4c21-b752-d4ec7ff56e43"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/77e90ef4-3018-4848-8164-832394b45da9/8de86f12-5906-4bfb-9f3c-cc58dbcda1a0"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -255,6 +264,9 @@
     (path "/a2d05d86-0e9b-47b0-b97a-14889aed3931/aa47c7ce-ab96-48ae-ac0c-78d13c767f97"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/b27f9e60-e68f-4752-ba84-d523bd848497"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a2d05d86-0e9b-47b0-b97a-14889aed3931/cf739241-7f9e-4bd9-84c7-298a551b760f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -265,6 +277,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/77e90ef4-3018-4848-8164-832394b45da9/db8d9adb-c0be-4d33-89a8-203607ad24a7"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/e0363390-9312-4b3d-9173-324d0cb811d4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/e5de71d9-72a9-41fb-9f4f-7473d1b1a8dc"
