@@ -451,8 +451,8 @@
 
 
   (no_connect (at 124.46 120.65) (uuid dda5ddce-3025-4d70-9887-e92fd44e9b9f))
-  (no_connect (at 175.26 107.95) (uuid dda5ddce-3025-4d70-9887-e92fd44e9b9f))
-  (no_connect (at 175.26 118.11) (uuid dda5ddce-3025-4d70-9887-e92fd44e9b9f))
+  (no_connect (at 175.26 107.95) (uuid dda5ddce-3025-4d70-9887-e92fd44e9ba0))
+  (no_connect (at 175.26 118.11) (uuid dda5ddce-3025-4d70-9887-e92fd44e9ba1))
 
   (wire (pts (xy 100.33 85.09) (xy 104.14 85.09))
     (stroke (width 0) (type default) (color 0 0 0 0))

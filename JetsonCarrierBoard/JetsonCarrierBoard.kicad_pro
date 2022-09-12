@@ -335,11 +335,11 @@
     ],
     [
       "a2d05d86-0e9b-47b0-b97a-14889aed3931",
-      "Power 1"
+      "Pre-reg 5V"
     ],
     [
       "7661caa5-a831-4a38-b30b-4546d9bcecdf",
-      "Power 2"
+      "Pre-reg 3V3"
     ],
     [
       "c4d380ca-b1d9-4a41-86cf-2b0a86998e0d",
@@ -375,7 +375,11 @@
     ],
     [
       "35a02f26-4e5e-4a54-87ef-75964a5a411a",
-      "Rest"
+      "DP"
+    ],
+    [
+      "c4aedfda-3c53-45a7-9372-54b9a8f840ba",
+      "1V8 LDO & 3V3 AO Rails"
     ]
   ],
   "text_variables": {}
