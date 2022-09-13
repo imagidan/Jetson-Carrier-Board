@@ -57,18 +57,6 @@
     )
   )
 
-  (sheet (at 167.64 110.49) (size 21.59 10.16) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 487825d1-d70a-4c12-8e68-8c79fa635e76)
-    (property "Sheet name" "ELRS" (id 0) (at 167.64 109.7784 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "elrs.kicad_sch" (id 1) (at 167.64 121.2346 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
   (sheet (at 116.84 127) (size 21.59 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -153,14 +141,14 @@
     )
   )
 
-  (sheet (at 167.64 127) (size 21.59 10.16) (fields_autoplaced)
+  (sheet (at 167.64 110.49) (size 21.59 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid c4aedfda-3c53-45a7-9372-54b9a8f840ba)
-    (property "Sheet name" "1V8 LDO & 3V3 AO Rails" (id 0) (at 167.64 126.2884 0)
+    (property "Sheet name" "1V8 LDO & 3V3 AO Rails" (id 0) (at 167.64 109.7784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "ldoAo.kicad_sch" (id 1) (at 167.64 137.7446 0)
+    (property "Sheet file" "ldoAo.kicad_sch" (id 1) (at 167.64 121.2346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -214,7 +202,6 @@
     (path "/fd522664-18f7-41a9-83db-3444870594c0" (page "10"))
     (path "/ae8a82e1-f689-44ad-b6b6-7c67f5a13316" (page "11"))
     (path "/fc058771-52c4-4460-9e1f-f56f767b80ad" (page "12"))
-    (path "/487825d1-d70a-4c12-8e68-8c79fa635e76" (page "13"))
     (path "/6dd6e531-721a-4414-9cf5-a3390f309250" (page "14"))
     (path "/35a02f26-4e5e-4a54-87ef-75964a5a411a" (page "15"))
     (path "/c4aedfda-3c53-45a7-9372-54b9a8f840ba" (page "16"))
@@ -273,6 +260,9 @@
       (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/5f2d3095-6026-4c64-97de-baa9554c467f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/614ea1df-89f1-41a8-b073-c383ea7276a7"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/6d9b7148-bc8d-45e2-b1ab-759efc40aa7b"
@@ -413,8 +403,14 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/6f7f4e4f-f255-4460-8ae3-4bd72b7f820e"
       (reference "C?") (unit 1) (value "10u") (footprint "")
     )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/76fa9c11-f466-4a8b-b52d-e35c124b0743"
+      (reference "C?") (unit 1) (value "560u") (footprint "")
+    )
     (path "/a2d05d86-0e9b-47b0-b97a-14889aed3931/77134455-401a-4cc3-bf4a-59ed8186ceda"
       (reference "C?") (unit 1) (value "0.1u") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/77eefc19-4a42-43bb-85bf-9b4a9557485d"
+      (reference "C?") (unit 1) (value "100u") (footprint "")
     )
     (path "/a2d05d86-0e9b-47b0-b97a-14889aed3931/800a232e-3f7c-4a16-bf9c-290c495bb410"
       (reference "C?") (unit 1) (value "47u") (footprint "")
@@ -448,6 +444,9 @@
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/a943df7d-9373-44cd-a088-5563966417b4"
       (reference "C?") (unit 1) (value "10n") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/ae20ef7e-56bb-47fe-8e7b-d2953aab6853"
+      (reference "C?") (unit 1) (value "100u") (footprint "")
     )
     (path "/77e90ef4-3018-4848-8164-832394b45da9/b1812e93-6d07-48bc-8440-4307c7b13cf3"
       (reference "C?") (unit 1) (value "10u") (footprint "")
