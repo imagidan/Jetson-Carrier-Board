@@ -380,6 +380,18 @@
     [
       "b5b2ff9e-284b-4192-bcb9-de0a9de3adc9",
       "Power MCU"
+    ],
+    [
+      "7129b9b1-f5d3-4747-b988-a2929f7ca732",
+      "DC Jack"
+    ],
+    [
+      "aaa4da5c-746b-4bc4-aad0-de1e61257597",
+      "Micro USB 2.0"
+    ],
+    [
+      "6dd5b3e8-f9b1-44df-9f78-287e3713f4d4",
+      "Fan & Debug"
     ]
   ],
   "text_variables": {}
