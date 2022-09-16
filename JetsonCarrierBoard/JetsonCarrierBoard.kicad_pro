@@ -376,6 +376,10 @@
     [
       "c4aedfda-3c53-45a7-9372-54b9a8f840ba",
       "1V8 LDO & 3V3 AO Rails"
+    ],
+    [
+      "b5b2ff9e-284b-4192-bcb9-de0a9de3adc9",
+      "Power MCU"
     ]
   ],
   "text_variables": {}
