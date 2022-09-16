@@ -356,6 +356,9 @@
     (path "/b5b2ff9e-284b-4192-bcb9-de0a9de3adc9/479a72a1-36d5-4f72-9691-bf2f9f9a9c96"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/4d58be06-b9e4-458a-88a5-43dc15bd9906"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b5b2ff9e-284b-4192-bcb9-de0a9de3adc9/4d6a52f4-a656-4d27-a4b2-fbc2fa80f853"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -390,6 +393,9 @@
       (reference "#PWR?") (unit 1) (value "+BATT") (footprint "")
     )
     (path "/c4aedfda-3c53-45a7-9372-54b9a8f840ba/6835f543-4085-43e7-ae19-a5afd5da9477"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/69bfcc8d-b689-4189-8dfa-b8ec294e7d09"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/6d9b7148-bc8d-45e2-b1ab-759efc40aa7b"
@@ -848,6 +854,9 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/2001a3dd-0bcf-4dae-8b3e-91b7e51250af"
       (reference "D?") (unit 1) (value "D_Schottky") (footprint "")
     )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/4105257d-74e0-4ad1-8718-ae6842b14848"
+      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+    )
     (path "/b5b2ff9e-284b-4192-bcb9-de0a9de3adc9/43b4a27d-7cf6-41f7-9f29-85b6a317a39e"
       (reference "D?") (unit 1) (value "BAT54CW") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
@@ -858,6 +867,9 @@
       (reference "D?") (unit 1) (value "BZT52Bxx") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/aaa4da5c-746b-4bc4-aad0-de1e61257597/a7ff46d2-d49b-4bcb-b6ee-5f430f79327b"
+      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+    )
+    (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/e3eedca0-f706-4643-97b0-089ac709f5f4"
       (reference "D?") (unit 1) (value "D_TVS") (footprint "")
     )
     (path "/7129b9b1-f5d3-4747-b988-a2929f7ca732/46d6c7ec-3259-421e-94bc-8ccee8fdbbbc"

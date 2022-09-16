@@ -862,7 +862,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "UART2_RXD" (shape input) (at 111.76 123.19 180) (fields_autoplaced)
+  (global_label "UART2_RXD" (shape output) (at 111.76 123.19 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid e419b918-cbb2-49d5-acf4-49a051df8293)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 98.7636 123.1106 0)
