@@ -12,5 +12,5 @@ It is a lightweight carrier board for a drone. Here are some of its features:
 * Debug UART
 * Micro USB for system flashing
 * Alt Mode capable USB-C port (Display Port and USB Super Speed)
-* Free UART, I2C and SPI interfaces
+* UART, I2C and SPI interfaces available
 * GPIOs
