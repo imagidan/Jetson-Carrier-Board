@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "M.2 SSD (Key M)")
+    (date "2022-09-18")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "Connector:Bus_M.2_Socket_M" (in_bom yes) (on_board yes)
       (property "Reference" "J?" (id 0) (at 2.0194 50.8 0)

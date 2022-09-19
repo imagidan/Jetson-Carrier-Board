@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "SODIMM Connector 3/3")
+    (date "2022-09-18")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "74xGxx:74LVC1G07" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -2.54 3.81 0)

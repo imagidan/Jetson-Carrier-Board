@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "9-26V DC Jack")
+    (date "2022-09-18")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "Connector:Barrel_Jack_MountingPin" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.334 0)

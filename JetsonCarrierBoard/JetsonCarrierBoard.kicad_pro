@@ -374,12 +374,12 @@
       "DP"
     ],
     [
-      "c4aedfda-3c53-45a7-9372-54b9a8f840ba",
-      "1V8 LDO & 3V3 AO Rails"
-    ],
-    [
       "b5b2ff9e-284b-4192-bcb9-de0a9de3adc9",
       "Power MCU"
+    ],
+    [
+      "c4aedfda-3c53-45a7-9372-54b9a8f840ba",
+      "1V8 LDO & 3V3 AO Rails"
     ],
     [
       "7129b9b1-f5d3-4747-b988-a2929f7ca732",

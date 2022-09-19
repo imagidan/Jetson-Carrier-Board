@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "CSI Cameras")
+    (date "2022-09-18")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "Analog_Switches:TS3USB30E" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)

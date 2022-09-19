@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Micro USB B 2.0")
+    (date "2022-09-18")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_B_Micro" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -5.08 11.43 0)
