@@ -716,7 +716,7 @@
     (property "Reference" "D?" (id 0) (at 125.73 96.5199 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "D_Zener" (id 1) (at 125.73 99.0599 90)
+    (property "Value" "27V Zener" (id 1) (at 125.73 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 123.19 97.79 0)
