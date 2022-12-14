@@ -874,6 +874,9 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/07891664-bc1b-4d52-b76e-db4d3431e417"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/0fc92c89-8dc9-49ec-8f6d-9c6d78a71bd2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/303a3932-0ff4-40c7-8aa2-61596877f00a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -895,9 +898,6 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/8e4e1713-22f3-478a-aff9-e47809f4da90"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/91ca1df1-b8e1-4f9c-8977-8fffdcf1ccef"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/a42fb7d0-5c44-4453-9fc4-af4fd909c95d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -913,7 +913,7 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/cc3d1d3e-9893-42e9-a04d-4191f94e3f7c"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/f2c5f034-29e7-4eaf-8260-17254991c1de"
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/ed0bd4e9-fd53-4dac-bec6-524aec690285"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/76fa9c11-f466-4a8b-b52d-e35c124b0743"
@@ -1192,7 +1192,7 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/a2ced711-7c5f-4681-8b2d-1f3f1767dbd2"
       (reference "C?") (unit 1) (value "0.1u") (footprint "")
     )
-    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/af788c1b-c0ac-49b1-b480-746cdc0dd7f1"
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/bfb748e0-a232-47cb-b8c8-5e3daa9ca252"
       (reference "C?") (unit 1) (value "4.7u") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/c99e5029-693d-4aaa-b6a7-41c7d092e47d"
@@ -1200,6 +1200,9 @@
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/e9aeccfb-bc10-4067-a004-3be2428768ac"
       (reference "C?") (unit 1) (value "0.01u") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/f0286017-f605-458a-92ca-8d62401e76fc"
+      (reference "C?") (unit 1) (value "0.1u") (footprint "")
     )
     (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/e3eedca0-f706-4643-97b0-089ac709f5f4"
       (reference "D1") (unit 1) (value "D_TPD") (footprint "")
@@ -1303,8 +1306,8 @@
     (path "/6dd5b3e8-f9b1-44df-9f78-287e3713f4d4/203337b2-d4c7-441c-9368-8f85032c68fb"
       (reference "D35") (unit 1) (value "LED") (footprint "")
     )
-    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/eea3bae8-259a-4be8-941b-231e6406296d"
-      (reference "D?") (unit 1) (value "D_Schottky") (footprint "")
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/007191e1-5e2c-428a-8cb0-e7c5ab3b5767"
+      (reference "D?") (unit 1) (value "D") (footprint "")
     )
     (path "/963f32ba-ec92-4ff1-85dd-63f258059e2d/00a8baf6-81ce-4acb-9c51-c549fff06205"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "")
@@ -1639,6 +1642,9 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/0e7f7592-215e-424c-8143-5b99205ca54d"
       (reference "R?") (unit 1) (value "3.83k") (footprint "")
     )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/13125859-e463-4c8d-830b-008b38e0f0ca"
+      (reference "R?") (unit 1) (value "3.3k") (footprint "")
+    )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/1d7c11c8-39ce-4d28-b4a6-936807121c91"
       (reference "R?") (unit 1) (value "3.83k") (footprint "")
     )
@@ -1648,14 +1654,14 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/3eb8b09e-9fac-47bb-ac3a-d1987f7bf3d0"
       (reference "R?") (unit 1) (value "0") (footprint "")
     )
-    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/5aad630a-8cb5-4767-972e-54268570ab44"
-      (reference "R?") (unit 1) (value "3.48") (footprint "")
-    )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/7d2df45d-7cf4-4481-aa19-09d4e27bc7b5"
       (reference "R?") (unit 1) (value "101.1k") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/a1df6bb3-9618-442a-9710-664ea214d84b"
       (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/b691058e-5fe3-4c6c-ab58-44a91723d962"
+      (reference "R?") (unit 1) (value "3.48") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/ba3b20b6-b05a-4172-8754-00bfc9b659de"
       (reference "R?") (unit 1) (value "61.43k") (footprint "")
@@ -1669,8 +1675,17 @@
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/dab1549b-8c8c-4bc9-9890-e3bac2520198"
       (reference "R?") (unit 1) (value "10k") (footprint "")
     )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/dab713a7-2b03-439e-b14c-7675abb69411"
+      (reference "R?") (unit 1) (value "3.3k") (footprint "")
+    )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/e27b8744-c01b-4e4c-a176-6774a4847aff"
       (reference "R?") (unit 1) (value "1M") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/e47b74cd-b26d-4cab-98f6-6b592a8fbefa"
+      (reference "R?") (unit 1) (value "3.3k") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/efd07603-0ee2-4420-9601-3f98c044aa47"
+      (reference "R?") (unit 1) (value "3.3k") (footprint "")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/f0537f99-6310-452e-a5d4-09c23a8f5d3f"
       (reference "R?") (unit 1) (value "101.1k") (footprint "")
@@ -1770,6 +1785,9 @@
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/aecce73d-d084-412a-960b-6aa3cd06850f"
       (reference "U?") (unit 1) (value "TPS65987") (footprint "")
+    )
+    (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/d5e6e286-4adf-495b-8e90-dc11fbe61ce5"
+      (reference "U?") (unit 1) (value "W25Q80") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/05070324-6f97-4cc0-bdcf-f69bfad6a219/7ea5f1b4-6144-45a8-8696-de75770f991b"
       (reference "U?") (unit 2) (value "TPS65987") (footprint "")
