@@ -1,6 +1,6 @@
 # Jetson Carrier Board
 
-This carrier board supports Jetson Nano, Xavier NX and the upcoming Orin NX.
+This carrier board supports Jetson Nano, Xavier NX, Orin NX and Orin Nano.
 
 It is a lightweight carrier board for a drone. Here are some of its features:
 * Stereo Microphone compatible
